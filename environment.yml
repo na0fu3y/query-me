@@ -1,9 +1,7 @@
 name: base
 channels:
-  - anaconda
   - conda-forge
 dependencies:
   - python=3.7
   - beakerx
   - ipywidgets
-  - sqlite=3.25
