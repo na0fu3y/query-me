@@ -6,4 +6,4 @@ dependencies:
   - python=3.7
   - beakerx
   - ipywidgets
-  - sqlite
+  - sqlite=3.25
