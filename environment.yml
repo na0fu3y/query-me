@@ -1,8 +1,7 @@
 name: base
 channels:
-  - conda-forge
+  - beakerx
 dependencies:
   - python=3.7
-  - xeus-sqlite
-  - ipywidgets
-  - notebook
+  - beakerx_kernel_sql
+  - beakerx_tabledisplay
