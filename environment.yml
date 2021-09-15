@@ -1,7 +1,0 @@
-name: base
-channels:
-  - beakerx
-dependencies:
-  - python=3.7
-  - jupyterlab
-  - xeus-sqlite
