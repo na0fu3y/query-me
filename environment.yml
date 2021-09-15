@@ -3,5 +3,5 @@ channels:
   - beakerx
 dependencies:
   - python=3.7
-  - beakerx_kernel_sql
   - ipywidgets
+  - xeus-sqlite
