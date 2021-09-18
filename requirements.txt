@@ -1,5 +1,4 @@
 jupyter-book
-matplotlib
-numpy
 google-cloud-bigquery
+google-cloud-bigquery-storage
 pydata-google-auth
