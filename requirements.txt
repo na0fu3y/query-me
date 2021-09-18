@@ -1,3 +1,4 @@
 jupyter-book
 google-cloud-bigquery[bqstorage,pandas]
 pydata-google-auth
+tqdm
